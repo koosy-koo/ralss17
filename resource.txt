@@ -1,0 +1,8 @@
+
+
+    FCNs with TF-slim: http://warmspringwinds.github.io/tensorflow/tf-slim/2017/01/23/fully-convolutional-networks-(fcns)-for-image-segmentation/
+
+    TF-Slim walkthrough: https://github.com/tensorflow/models/blob/master/slim/slim_walkthrough.ipynb
+
+    TF-slim: https://github.com/tensorflow/models/tree/master/slim
+
