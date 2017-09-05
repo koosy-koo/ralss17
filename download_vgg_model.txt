@@ -1,1 +1,4 @@
+Do not download!
 http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat
+
+I will give you another link!
